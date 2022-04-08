@@ -19,7 +19,7 @@ The goal of the game is to cure all the patients on each level by finding the co
 2. Click on Statspital and click Play Statspital
 3. You can download the game data by clikcing Game Data 
 
-### The game is still underdevelopment and more levels are currently being created. Stay updated! 
+#### The game is still under development and more levels are currently being added. Stay updated! 
 
 ## Contact: 
 Please feel free to open an issue or PR to discuss more features/bug reports. Also, feel free to contact me at lequang@grinnell.edu.
