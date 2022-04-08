@@ -5,6 +5,8 @@ This project is written in C# using the Unity Engine version 2020.3.30f1.
 ## Summary:
 This is a 3D hospital themed game that gather users' game data and allow users to download data in the form of a CSV. The game is created for educational purposes, especially in teaching of multivariate statistics courses at colleges and universities. 
 
+![statspital-gameplay](https://user-images.githubusercontent.com/85794656/162501181-85d15ddd-4f9d-411f-ab69-db4e16c055d4.gif)
+
 ## Description:
 The goal of the game is to cure all the patients on each level by finding the combination of medicines, since each medicine has a different level of effectiveness. There will be a timer so it is important to find the most effective medicine combinations so you can cure all of the patients in the alloted time. 
 
